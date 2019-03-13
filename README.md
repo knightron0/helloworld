@@ -1,2 +1,3 @@
-# helloworld
-Lol, don't judge, i had free time.
+# Hello World!
+Lol, don't judge, we had free time.
+
