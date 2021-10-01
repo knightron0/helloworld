@@ -1,0 +1,5 @@
+function main ()
+    command (0x0005,"Hello world!",null)
+    command (0x0006,null)
+    exit
+end function
